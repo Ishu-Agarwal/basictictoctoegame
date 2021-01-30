@@ -109,8 +109,7 @@ function myfunc() {
         document.getElementById('final') .innerHTML = "Player X won"; 
      
         console.log('game over, resetting game');
-        c="X";
-        end(c);
+        end();
         setTimeout(reset, 10000); //call reset after 3 seconds...
     } 
     else if ((b1 == 'X') && ( b4 == 'X') && ( b7 == 'X')) { 
