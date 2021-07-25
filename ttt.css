@@ -17,10 +17,10 @@
 #b1, #b2, #b3, #b4, #b5,  
 #b6, #b7, #b8, #b9 { 
     width: 15%; 
-    height: 70px; 
+    height: 85px; 
     border: 3px solid rgb(14, 4, 27); 
     border-radius: 6px; 
-    font-size: 60px;
+    font-size: 75px;
     font-weight:bold;
     margin-bottom:1px;
     text-align: center; 
