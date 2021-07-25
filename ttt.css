@@ -17,12 +17,11 @@
 #b1, #b2, #b3, #b4, #b5,  
 #b6, #b7, #b8, #b9 { 
     width: 15%; 
-    height: 10%; 
+    height: 70px; 
     border: 3px solid rgb(14, 4, 27); 
     border-radius: 6px; 
-    font-size: 80px;
-    font-weight:bold; 
-    margin :2px;
+    font-size: 60px;
+    font-weight:bold;
     margin-bottom:1px;
     text-align: center; 
     color: rgb(253, 67, 67);
