@@ -1,22 +1,16 @@
 #owner{ 
-    color: rgb(235, 47, 33); 
-    font-size: 60px; 
-    height:30%;
-    border: 5px solid rgb(15, 9, 14);  
-    border-radius: 4px; 
-    background-color: deepskyblue;
-    color: rgb(235, 47, 33); 
+    color: rgb(226, 87, 77); 
+    font-size: 40px; 
+    width:100%;
+    height: 10%;
+    border: 3px solid rgb(15, 9, 14);  
+    border-radius: 5px; 
+    background-color: rgb(18, 63, 78);
     font-family: comic sans,Verdana,  
         Geneva, Tahoma, sans-serif; 
-        margin:5px;
+    margin:4px;
+    padding: ;
         
-} 
-h5{ 
-    color: rgb(160, 11, 11); 
-    font-size: 30px; 
-    margin:2px;
-    font-family: Arial, Helvetica, sans-serif; 
-    font-weight:bold;
 } 
 
 /* 3*3 Grid */
@@ -66,7 +60,7 @@ h5{
 /* Main Contianer */
 #main { 
     text-align: center; 
-    background:gold;
+     background:rgb(181, 157, 238);
 }
 /* Game Instruction Text */
 #ins { 
